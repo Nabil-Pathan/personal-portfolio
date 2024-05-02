@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "CONVERSA",
+      "description": "The MERN stack chat application using Socket.IO is a real-time chat platform. It leverages MongoDB, Express, React, and Node.js for server-side and client-side development. Socket.IO enables instant bidirectional communication.",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/03/26/22/33/smartphone-1281632_1280.jpg"
+    },
+     {
+      "date": "15/10/2022",
+      "title": "CodeSync",
+      "description": "👨‍💻 Developed CodeSync, an innovative real-time code editor that enables seamless collaboration among developers worldwide. 🌐 Revolutionizing the way teams code together, enhancing productivity and teamwork. Join me in shaping the future of collaborative coding!",
+      "url": "https://react-crypto-app-pi.vercel.app",
+      "imgSrc": "https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": " JOB APPLICATION PORTAL",
+      "description": "The MERN Stack Job Portal is a dynamic web application that seamlessly connects job seekers and employers.  Built using the popular MERN stack, it offers a user-friendly interface, efficient job search functionality, ",
+      "url": "https://react-video-app-eight.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/07/08/04/12/work-5382501_1280.jpg"
+    },
+   
+
+    {
+      "date": "17/10/2022",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
